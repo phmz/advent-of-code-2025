@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code solutions",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "run.js",
+  "scripts": {
+    "solve": "node run.js",
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.15"
+  }
+}
