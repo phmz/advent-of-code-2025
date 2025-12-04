@@ -42,6 +42,12 @@ Common helpers available in `utils/index.js`:
 - `range(start, end)` - Generate number range
 - `gcd(a, b)`, `lcm(a, b)` - Math utilities
 
+## Code Style
+
+- Use descriptive variable names (no single-letter or two-letter variables)
+- Extract magic numbers into named constants
+- Keep solutions clean and readable
+
 ## Solution Template
 
 ```javascript
