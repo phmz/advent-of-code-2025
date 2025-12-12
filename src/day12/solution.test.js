@@ -11,7 +11,7 @@ const input = readInput(path.join(__dirname, "input.txt"));
 describe("Day 12", () => {
   describe("Part 1", () => {
     it("solves example", () => {
-      expect(solve1(example)).toBe(null); // TODO: replace with expected value
+      expect(solve1(example)).toBe(2);
     });
   });
 
